@@ -1,5 +1,11 @@
 # Git 会忽略的文件
 
+# Clacky 相关配置
+.1024*
+!.1024
+.breakpoints
+.pnpm-store
+
 .DS_Store
 node_modules
 dist
